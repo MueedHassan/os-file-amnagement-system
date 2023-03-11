@@ -1,0 +1,4 @@
+home: 
+-----
+dir3: file1.txt(Text: MyNameIsAliAmirKhawaja. )   
+-----

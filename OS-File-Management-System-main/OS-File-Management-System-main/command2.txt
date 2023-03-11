@@ -1,0 +1,9 @@
+create,file2.txt
+create,file3.txt
+mkdir,dir1
+mkdir,dir2
+move,file3.txt,dir2
+move,file2.txt,dir1
+write,file2.txt,File2Contents
+read,file2.txt,r
+showmm

@@ -1,0 +1,6 @@
+create,file1.txt
+mkdir,dir3
+move,file1.txt,dir3
+write,file1.txt,MyNameIsAliAmirKhawaja.
+read,file1.txt,r
+showmm

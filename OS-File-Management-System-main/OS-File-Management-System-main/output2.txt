@@ -1,0 +1,8 @@
+home: 
+-----
+dir3: file1.txt(Text: MyNameIsAliAmirKhawaja. )   
+-----
+dir1: file2.txt(Text: File2Contents )   
+-----
+dir2: file3.txt(Text: * )   
+-----
